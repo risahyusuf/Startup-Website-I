@@ -1,0 +1,44 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+header {
+    padding-bottom: 30px;
+    max-height: 642px;
+    background: #74C69D;
+}
+
+.hero-image {
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+h1, p {
+    margin: 0 10px;
+    color:#FFFFFF;
+}
+
+h1 {
+    padding: 10px 0;
+    font-size: 23px;
+}
+
+p {
+        font-size: 17px;
+}
+
+a {
+    color: #000000;
+    width: fit-content;
+    background-color: #FFFFFF;
+    display: block;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 10px 50px;
+}

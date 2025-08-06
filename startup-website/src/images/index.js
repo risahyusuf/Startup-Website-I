@@ -1,0 +1,21 @@
+import airbnb from "./airbnb.svg";
+import alex from "./alex.png";
+import explore from "./explore.png";
+import facebook from "./facebook.svg";
+import footer from "./footer.png";
+import footermobile from "./footermobile.png";
+import google from "./google.png";
+import group from "./group.png";
+import guerra from "./guerra.png";
+import heroimage from "./heroimage.svg";
+import image1 from "./image1.svg";
+import janet from "./janet.png";
+import learnmore from "./learnmore.png";
+import logo from "./logo.png";
+import menu from "./menu.png";
+import microsoft from "./microsoft.svg";
+import peg from "./peg.png";
+import rectangle from "./Rectangle.png";
+import spotify from "./spotify.svg";
+
+export { airbnb, alex, explore, facebook, footer, footermobile, google, group, guerra, heroimage, image1, janet, learnmore, logo, menu, microsoft, peg, rectangle, spotify };
