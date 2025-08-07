@@ -2,13 +2,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 15px;
 }
 
 header {
     padding-bottom: 30px;
     max-height: 642px;
     background: #74C69D;
+    margin-bottom: 20px;
 }
 
 .hero-image {
@@ -18,18 +19,8 @@ header {
     width: 100%;
 }
 
-h1, p {
-    margin: 0 10px;
+h1,h2, p {
     color:#FFFFFF;
-}
-
-h1 {
-    padding: 10px 0;
-    font-size: 23px;
-}
-
-p {
-        font-size: 17px;
 }
 
 a {

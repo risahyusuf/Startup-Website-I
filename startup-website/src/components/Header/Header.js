@@ -12,8 +12,8 @@ const Header = () => {
   
 <div className="header">
   <img src={heroimage} alt="heroimage" className="hero-image"></img>
-      <p>W E L C O M E</p>
-      <h1>Lorem ipsum dolor sit amet consectetur</h1>
+      <h1>W E L C O M E</h1>
+      <h2>Lorem ipsum dolor sit amet consectetur</h2>
       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?</p>
     <a href="#Explore" className="explore-btn">Explore</a>
     </div>
