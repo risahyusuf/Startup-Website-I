@@ -4,7 +4,10 @@ import { footerframe, start } from "../../images"
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <section className="Footer">
+        <img src={footerframe} className="media" alt="social media"></img>
+        <img src={start} className="copyright" alt="copyright"></img>
+    </section>
   )
 }
 
