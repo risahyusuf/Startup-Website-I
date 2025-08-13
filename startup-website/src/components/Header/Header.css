@@ -12,24 +12,13 @@ header {
     margin-bottom: 20px;
 }
 
-.hero-image {
-    padding: 10px;
-    margin-top: 15px;
-    margin-bottom: 10px;
-    width: 100%;
-}
-
 h1,h2, p {
     color:#FFFFFF;
 }
 
-a {
+.hero-section a {
     color: #000000;
-    width: fit-content;
     background-color: #FFFFFF;
-    display: block;
-    border-radius: 5px;
     margin-left: 10px;
     margin-top: 20px;
-    padding: 10px 50px;
 }

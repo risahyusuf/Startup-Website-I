@@ -4,7 +4,7 @@ import { google, microsoft, airbnb, facebook, spotify } from "../../images"
 
 const Socials = () => {
   return (
-    <div className="socials">
+    <section className="socials">
       <h1>P A R T N E R S</h1>
       <h2>Lorem Ipsum Dolor</h2>
       <p>Lorem ipsum, dolor sit amet consectetur<br />
@@ -17,7 +17,7 @@ const Socials = () => {
           <img src={spotify} alt="spotify" className="spotify"></img>
           </div>
           <a href="#Learn More" className="learnmore-btn">Learn More</a>
-    </div>
+    </section>
   );
 };
 
